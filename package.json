@@ -1,0 +1,18 @@
+{
+    "name": "node-server",
+    "version": "1.0.0",
+    "description": "Upload file Excel using NodeJS",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Kim Loan",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "connect-busboy": "0.0.2",
+        "express": "^4.16.4",
+        "js-image-generator": "^1.0.2",
+        "node-xlsx": "^0.15.0"
+    }
+}
