@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+#myTable td,
+#myTable tr {
+    border: 1px solid black;
+}
+
+#myTable th {
+    text-align: center;
+    border: 1px solid black;
+}
+
+#myTable {
+    width: 720px;
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+#upload {
+    display: none;
+}
+
+.glyphicon {
+    font-size: 4em
+}
+
+#container {
+    margin: 20px 350px 20px 350px;
+}
+
+img {
+    width: 80px;
+    max-width: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.btn-xs {
+    font-size: 5px;
+}
